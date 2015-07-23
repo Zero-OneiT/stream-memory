@@ -1,0 +1,26 @@
+{
+  "name": "stream-memory",
+  "version": "0.0.1",
+  "description": "This is a package to create stream on memory, just to avoid create files or another kind of stream and pipe to other stream.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Zero-OneiT/stream-memory"
+  },
+  "keywords": [
+    "stream",
+    "memory"
+  ],
+  "author": "Diego Resendez <diego.resendez@zero-oneit.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Zero-OneiT/stream-memory/issues"
+  },
+  "homepage": "https://github.com/Zero-OneiT/stream-memory",
+  "dependencies": {
+    "readable-stream": "^2.0.2"
+  }
+}
